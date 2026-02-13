@@ -21,16 +21,9 @@ Put an image of your UML Diagram here. Upload the image of your UML Diagram to y
 
 ## Video
 
-Record a short video of your story to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
-
 [![Thumbnail for my projet](ThumbNail.png)]([[youtube-URL-here](https://youtube.com/shorts/vcViRzIy4E8)])
 
+Feel free to check out the Channel!
 ## Story Description
 
 This week, I've been feeling very unmotivated. To the point where I took short naps in some of my classes and just didn't want to do any homework at all. This animation shows my feelings, before the introduction to this project and upon finding out and doing this project. The data included in my project is the name of the image file and the caption for the images. They are stored in 2, 2d arrays and utilized for each scene class.
